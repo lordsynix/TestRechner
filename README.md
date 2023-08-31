@@ -11,3 +11,4 @@ Microsoft Visual Studio Version: 2022 17.1.32407
 - #660000 - dark red
 - #090040 - dark blue
 - #cd8500 - gold/orange
+Thank you very much for your time!
