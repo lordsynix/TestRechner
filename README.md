@@ -1,4 +1,4 @@
-#Test Calculator
+# TestCalculator
 *Access to our git test software*
 
 ## Software:
