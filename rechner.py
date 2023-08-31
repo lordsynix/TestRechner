@@ -5,4 +5,4 @@ import divide
 print(addieren.add(1, 2))
 print(subtract.sub(2, 1))
 print(int(divide.div(5, 5)))
-print("Lorem Ipsum Hound ist ein Verräter")
+print("https://play.typeracer.com?rt=10gmep1dx5")
